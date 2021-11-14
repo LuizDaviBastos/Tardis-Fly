@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - AreaDoJogo
+  - inimigo
+  - RaioSonico
+  - Escudo
+  - Morte
+  - LevelManager
+  - GameManager
+  - LimiteE
+  - LimiteD
+  - LimiteC
+  - LimiteB
+  - UIManager
+  - SkillManager
+  - txtCoin
+  - txtScore
+  - ObjetoPai
+  - rr
+  - BarraDeVida
+  - Bullet
+  - buraconegro
+  - PlayerMov
+  - Laser
+  - BaseLaser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - Botoes
+  - Inimigo
+  - Moeda
+  - Alvo
+  - BaseLaser
+  - Laser
+  - PlayerMov
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2267925119
+    locked: 0
+  - name: Inimigo
+    uniqueID: 3841089463
+    locked: 0
+  - name: Coins
+    uniqueID: 1270758923
+    locked: 0
+  - name: Player
+    uniqueID: 755453321
+    locked: 0
+  - name: UI
+    uniqueID: 3201930901
+    locked: 0
